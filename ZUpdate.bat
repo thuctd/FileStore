@@ -8,6 +8,6 @@ PAUSE
 call git add *
 
 
-call git commit -m %date%_%time%
+call git commit -m %date%
 call git push origin master
 PAUSE
