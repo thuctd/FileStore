@@ -3,8 +3,6 @@
 
 call git pull origin master
 
-PAUSE
-
 call git add *
 
 
